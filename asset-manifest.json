@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/M11995.github.io/Bootcamp/static/css/main.e6c13ad2.css",
-    "main.js": "/M11995.github.io/Bootcamp/static/js/main.8c31c42a.js",
-    "static/js/787.d322cc09.chunk.js": "/M11995.github.io/Bootcamp/static/js/787.d322cc09.chunk.js",
-    "index.html": "/M11995.github.io/Bootcamp/index.html",
-    "main.e6c13ad2.css.map": "/M11995.github.io/Bootcamp/static/css/main.e6c13ad2.css.map",
-    "main.8c31c42a.js.map": "/M11995.github.io/Bootcamp/static/js/main.8c31c42a.js.map",
-    "787.d322cc09.chunk.js.map": "/M11995.github.io/Bootcamp/static/js/787.d322cc09.chunk.js.map"
+    "main.css": "/Bootcamp/static/css/main.e6c13ad2.css",
+    "main.js": "/Bootcamp/static/js/main.f6aed132.js",
+    "static/js/787.d322cc09.chunk.js": "/Bootcamp/static/js/787.d322cc09.chunk.js",
+    "index.html": "/Bootcamp/index.html",
+    "main.e6c13ad2.css.map": "/Bootcamp/static/css/main.e6c13ad2.css.map",
+    "main.f6aed132.js.map": "/Bootcamp/static/js/main.f6aed132.js.map",
+    "787.d322cc09.chunk.js.map": "/Bootcamp/static/js/787.d322cc09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8c31c42a.js"
+    "static/js/main.f6aed132.js"
   ]
 }
